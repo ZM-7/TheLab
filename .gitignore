@@ -1,0 +1,10 @@
+# Directories
+.vs/
+x64/
+OpenGL/x64
+
+#Files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
